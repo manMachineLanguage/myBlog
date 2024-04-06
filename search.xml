@@ -3,8 +3,7 @@
   <entry>
     <title>test</title>
     <url>/myBlog/2024/04/04/helloWorld/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Hello, world!</p>
-]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><h2 id="测试-1"><a href="#测试-1" class="headerlink" title="测试"></a>测试</h2><h3 id="测试-2"><a href="#测试-2" class="headerlink" title="测试"></a>测试</h3>]]></content>
       <categories>
         <category>test</category>
       </categories>
