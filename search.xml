@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
+    <title>目录测试</title>
     <url>/myBlog/2024/04/04/helloWorld/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h1><h2 id="测试-1"><a href="#测试-1" class="headerlink" title="测试"></a>测试</h2><h3 id="测试-2"><a href="#测试-2" class="headerlink" title="测试"></a>测试</h3>]]></content>
       <categories>
         <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>插入图片测试</title>
+    <url>/myBlog/2024/04/04/picText/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://uploadfiles.nowcoder.com/images/20210621/204935787_1624282965610/8FB2D88793EF3AE6128DB8DD9D85E5DE">img</a></p>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
       </categories>
       <tags>
         <tag>test</tag>
@@ -18,6 +30,19 @@
 ]]></content>
       <categories>
         <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>加入评论功能</title>
+    <url>/myBlog/2024/04/04/updateBlog/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在_config.async.yml<br>comment:<br>  twikoo:<br>    enable: true<br>    envId: （这里配置）<br>    region: # 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数<br>    option: # 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数</p>
+<p><a href="https://www.anzifan.com/post/icarus_to_candy_2">https://www.anzifan.com/post/icarus_to_candy_2</a> 云函数教程</p>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
       </categories>
       <tags>
         <tag>test</tag>
