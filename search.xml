@@ -14,10 +14,11 @@
   <entry>
     <title>插入图片测试</title>
     <url>/myBlog/2024/04/04/picText/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://uploadfiles.nowcoder.com/images/20210621/204935787_1624282965610/8FB2D88793EF3AE6128DB8DD9D85E5DE">img</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/myBlog/assets/css/APlayer.min.css"><script src="/myBlog/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://uploadfiles.nowcoder.com/images/20210621/204935787_1624282965610/8FB2D88793EF3AE6128DB8DD9D85E5DE" alt="img" loading="lazy" onerror='this.onerror=null;this.src="/myBlog/img/404.jpg"'></p>
+<p>聚合图床 <a href="https://www.superbed.cn/">https://www.superbed.cn/</a></p>
 ]]></content>
       <categories>
-        <category>博客搭建</category>
+        <category>test</category>
       </categories>
       <tags>
         <tag>test</tag>
